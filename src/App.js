@@ -4,8 +4,9 @@ import './style.css';
 
 export default function App() {
   let corrections = {
-    realy: 'really',
-    wierd: 'weird',
+    xy: 'x',
+    y: 'z',
+    abc: 'bc',
   };
   return (
     <div>
